@@ -51,6 +51,23 @@ flights %>%
 
 <img src="imgs/posterior_binomial.svg">
 
+## Assignment 5 - Poisson inference
+
+A study on water quality of streams, a high level of bacter X was defined as a level greater than 100 per 100 ml of stream water. n = 116 samples were taken from streams having a high environmental impact on pandas. Out of these, y = 11 had a high bacter X level. Indicating with p the probability that a sample of water taken from the stream has a high bacter X level, 
+
+*  find the frequentist estimator for p
+*  using a Beta(1,10) prior for p, calculate and posterior distribution P(p | y)
+*  find the bayesian estimator for p, the posterior mean and variance, and a 95% credible interval
+*  test the hypotesis:
+
+$$
+H_0 : p = 0.1
+$$
+$$
+H_1: p \neq 0.1
+$$
+
+<img src="imgs/hyp_test.png">
 
 * Six boxes toy model
 
