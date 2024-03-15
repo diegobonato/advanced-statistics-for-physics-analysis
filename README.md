@@ -67,7 +67,7 @@ $$
 H_1: p \neq 0.1
 $$
 
-<img src="imgs/hyp_test_with_background.png">
+<img src="imgs/hyp_test_with_background.jpg">
 
 * Six boxes toy model
 
